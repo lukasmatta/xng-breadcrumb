@@ -1,3 +1,20 @@
+# 12.0.0 (2024-08-12)
+
+
+### 🩹 Fixes
+
+- ci ([5e0fa1c](https://github.com/udayvunnam/xng-breadcrumb/commit/5e0fa1c))
+- ci ([#193](https://github.com/udayvunnam/xng-breadcrumb/pull/193))
+- github actions ([#195](https://github.com/udayvunnam/xng-breadcrumb/pull/195))
+- ci ([520d3bd](https://github.com/udayvunnam/xng-breadcrumb/commit/520d3bd))
+- ci ([a01d407](https://github.com/udayvunnam/xng-breadcrumb/commit/a01d407))
+- ci ([bd7738b](https://github.com/udayvunnam/xng-breadcrumb/commit/bd7738b))
+- ci ([421a6b2](https://github.com/udayvunnam/xng-breadcrumb/commit/421a6b2))
+
+### ❤️  Thank You
+
+- Uday Vunnam @Sveltastic
+
 # 11.0.0 (2024-03-30)
 
 ### 🚀 Features
